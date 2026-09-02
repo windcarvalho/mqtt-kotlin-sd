@@ -21,6 +21,10 @@ dependencies {
 
 compose.desktop {
     application {
-        mainClass = "MonitorKt"
+        //mainClass = "MonitorSimplesKt"
+         //mainClass = "SensorIDKt"
+       //  mainClass = "MonitorCentralKt"
+         mainClass = "SensorKt"
+      //   mainClass = "MonitorSimplesSubscribedKt"
     }
 }
