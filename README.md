@@ -1,6 +1,6 @@
-# Kotlin Desktop Demo
+# Mqtt Kotlin SD
 
-Estrutura básica para um app desktop em Kotlin usando Compose for Desktop.
+Esse projeto é um app desktop básico em Kotlin usando Compose para Desktop.
 
 ## Como rodar
 
@@ -23,3 +23,5 @@ ou no Linux/macOS:
 - `build.gradle.kts`: configuração do Gradle e dependências
 - `settings.gradle.kts`: nome do projeto
 - `src/main/kotlin/Main.kt`: código principal da aplicação
+
+  
