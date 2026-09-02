@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\User\\kotlin-desktop-demorunkotlin-desktop-demo",
+			"script": "run",
+			"description": "",
+			"group": "compose desktop",
+			"project": "kotlin-desktop-demo",
+			"buildFile": "C:\\Users\\User\\kotlin-desktop-demo\\build.gradle.kts",
+			"rootProject": "kotlin-desktop-demo",
+			"projectFolder": "c:\\Users\\User\\kotlin-desktop-demo",
+			"workspaceFolder": "c:\\Users\\User\\kotlin-desktop-demo",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: run"
+		}
+	]
+}
